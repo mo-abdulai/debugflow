@@ -99,7 +99,7 @@ types/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/debugflow.git
+git clone https://github.com/mo-abdulai/debugflow.git
 cd debugflow
 ```
 
